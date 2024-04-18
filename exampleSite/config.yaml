@@ -100,7 +100,7 @@ params:
     title: "David."
     subtitle: "I code smart things."
     content: "Exploring the frontiers of AI: Building practical intelligent systems that learn and adapt"
-    image: /images/jfImage.jpg
+    #image: /images/jfImage.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
