@@ -99,8 +99,8 @@ params:
     intro: "Hi, my name is"
     title: "David."
     subtitle: "I code smart things."
-    content: "Exploring the frontiers of AI: Building practical intelligent systems that learn and adapt"
-    #image: /images/jfImage.jpg
+    content: "The tech world is full of hype. I prefer projects that speak for themselves. Explore and decide the verdict..."
+    image: /images/jfImage.jpg
     bottomImage:
       enable: true
     # roundImage: true # Make hero image circular | default false
