@@ -107,7 +107,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "https://drive.google.com/file/d/118EtDU6gTIgi1anaYgpKzT6QLarTXReQ/view?usp=drive_link"
+      url: "https://sync.academiccloud.de/index.php/s/vTyedWEov8vfpbV"
       download: true
       newPage: true
     socialLinks:
